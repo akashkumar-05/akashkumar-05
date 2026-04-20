@@ -15,9 +15,9 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/akash05379%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash05379@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nightsight30-sky)
-[![Profile Views](https://komarev.com/ghpvc/?username=nightsight30-sky&label=Profile+Views&color=2563EB&style=for-the-badge)](https://github.com/nightsight30-sky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsight30/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashkumar-05/)
+[![Profile Views](https://komarev.com/ghpvc/?username=akashkumar-05&label=Profile+Views&color=2563EB&style=for-the-badge)](https://github.com/akashkumar-05/)
 
 </div>
 
