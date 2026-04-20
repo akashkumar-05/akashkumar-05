@@ -106,7 +106,7 @@ const akash = {
 
 <div align="center">
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nightsight30-sky&theme=github-compact&color=2563EB&line=2563EB&point=EA4335&area=true&hide_border=false)](https://github.com/nightsight30-sky)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nightsight30-sky&theme=github-compact&color=2563EB&line=2563EB&point=EA4335&area=true&hide_border=false)](https://github.com/akashkumar-05/akashkumar-05)
 
 </div>
 
@@ -122,7 +122,7 @@ Whether you're a **recruiter**, a **fellow developer**, or someone with a **cool
 <br/>
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash05379@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashkumar)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsight30/)
 
 <br/>
 
